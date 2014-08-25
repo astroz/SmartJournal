@@ -1,0 +1,16 @@
+{
+  "name"          : "smartjournal",
+  "version"       : "0.0.1",
+  "description"   : "An Interesting Journal App",
+  "main"          : "server.js",
+  "author"        : ["Joir-dan Gumbs", "Andrew Strozier"],
+  "dependencies"  : {
+    "express"         : "~4.7.2",
+    "mongoose"        : "~3.6.2",
+    "cradle"          : "~0.6.7",
+    "pouchdb"         : "~3.0.2",
+    "morgan"          : "~1.2.2",
+    "body-parser"     : "~1.5.2",
+    "method-override" : "~2.1.2"
+  }
+}
